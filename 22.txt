@@ -1,0 +1,41 @@
+//Error
+
+1. Compile time (syntax) Error
+
+* occurs when the rules of the programming language are violated.
+*Detected by the compiler during compilation.
+*Prevents the program from running.
+
+*Examples
+
+
+
+Exception 
+
+Exception is an error  
+
+
+
+
+Exception Handling 
+
+Keyword in Exception Handling 
+
+*try -> block of code that may cause exception .
+*throw -> used to raise an exception .
+*catch -> block that handles the exception .
+
+try{
+    //Code that may throw exception 
+    throw exception_value;
+}
+
+catch (type exception_var){
+    //Handle exception
+}
+
+
+
+Const 
+*Means the exception object caught cannot be modified
+* You can read the message but not change it

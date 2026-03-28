@@ -1,0 +1,14 @@
+Friend in C++ 
+
+C++ SUPPORTS encaptulation -> class members are private by defalute
+
+
+
+
+Features of Friend in c++
+
+*Has access to private and protected members.
+*can be delecared in public, private , or protected section (scope doesn't matter)
+*Freindship is not mutual(if class A is friend of B , B is not automatically friend of A).
+*Freindship is not inherited.
+
